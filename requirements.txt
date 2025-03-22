@@ -1,0 +1,16 @@
+torch==1.8.0
+torchvision==0.9.0
+tensorboard
+numpy
+scipy
+opencv-python>=4.5.1.48
+pyro-ppl==1.4.0
+PyYAML==5.4.1
+matplotlib
+termcolor
+plyfile
+easydict 
+progress 
+numba
+
+
