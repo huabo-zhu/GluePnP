@@ -82,6 +82,8 @@ To test a model, run `eval.py` from a checkpoint, with the desired dataset (mode
 python eval.py
 ```
 
+After running, it will output the average error and error quantile (Q1/Q2/Q3)
+
 **Parameter Description**:
 
 data_name, megadepth or modelnet40 
